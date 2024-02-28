@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.36e4e062.css",
-    "main.js": "/static/js/main.0375b5df.js",
+    "main.js": "/static/js/main.a670844a.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/Raju_Yarragoti_Resume.pdf": "/static/media/Raju_Yarragoti_Resume.68292b6e79c6bf5e9941.pdf",
     "static/media/profilemenu.jpeg": "/static/media/profilemenu.bb857efa4f8fb5dcdb3a.jpeg",
     "static/media/Raju.jpg": "/static/media/Raju.1b4dc349a405d72c3b3b.jpg",
     "index.html": "/index.html",
     "main.36e4e062.css.map": "/static/css/main.36e4e062.css.map",
-    "main.0375b5df.js.map": "/static/js/main.0375b5df.js.map",
+    "main.a670844a.js.map": "/static/js/main.a670844a.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36e4e062.css",
-    "static/js/main.0375b5df.js"
+    "static/js/main.a670844a.js"
   ]
 }
